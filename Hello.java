@@ -4,4 +4,8 @@ public class Hello{
 			System.out.println("Hello World ..."+i);
 		}
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 042a87a2bdb42b4f6a1a3d9ae343f3f0954e9ab1
